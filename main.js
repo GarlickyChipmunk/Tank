@@ -7,7 +7,7 @@ window.addEventListener('load', function(){
        this.min_puissance = 0;
        this.max_puissance = 100;
        this.angle = 45;
-       this.min_angle = -90;
+       this.min_angle = -45;
        this.max_angle = 90;
      }
      update(){
